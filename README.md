@@ -1,2 +1,2 @@
 # Huffman-Coding
-课设
+哈夫曼树
